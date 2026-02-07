@@ -17,9 +17,9 @@ import csv
 # Configuration: input/output
 # -----------------------------
 
-INPUT_FILE = r"c:\Users\user\Desktop\PythonPortfolio\01_username_validator\input\sample.csv"
-OUTPUT_VALID = r"c:\Users\user\Desktop\PythonPortfolio\01_username_validator\output\valid_records.csv"
-OUTPUT_INVALID = r"c:\Users\user\Desktop\PythonPortfolio\01_username_validator\output\invalid_records.csv"
+INPUT_FILE = "sample.csv"
+OUTPUT_VALID = "valid_records.csv"
+OUTPUT_INVALID = "invalid_records.csv"
 
 
 # -----------------------------
